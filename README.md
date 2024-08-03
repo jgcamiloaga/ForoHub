@@ -1,4 +1,4 @@
-# CHALLENGE Nº 4 - FOROHUB
+# CHALLENGE Nº 4 - FOROMHUB
 
 ## Descripción del proyecto
 
